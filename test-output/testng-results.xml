@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T19:39:30 IST" name="Suite" finished-at="2024-10-10T19:39:48 IST" duration-ms="18497">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T19:39:30 IST" name="Test" finished-at="2024-10-10T19:39:48 IST" duration-ms="18497">
+      <class name="testCases.TC001_CandidateDetails">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_CandidateDetails@6ad3381f]" started-at="2024-10-10T19:39:30 IST" name="setup" finished-at="2024-10-10T19:39:38 IST" duration-ms="8150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCandidate()[pri:0, instance:testCases.TC001_CandidateDetails@6ad3381f]" started-at="2024-10-10T19:39:38 IST" name="verifyCandidate" finished-at="2024-10-10T19:39:48 IST" duration-ms="9746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCandidate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001_CandidateDetails@6ad3381f]" started-at="2024-10-10T19:39:48 IST" name="teardown" finished-at="2024-10-10T19:39:48 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC001_CandidateDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,43 @@
+2024-10-10 19:23:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:23:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:23:47 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:24:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:24:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:24:52 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:24:54 INFO  TC001_CandidateDetails:26 - Testcase Finished
+2024-10-10 19:25:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:25:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:25:34 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:25:36 INFO  TC001_CandidateDetails:26 - Testcase Finished
+2024-10-10 19:35:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:35:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:35:15 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:35:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:35:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:35:46 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:36:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:36:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:36:09 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:37:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:37:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:37:32 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:39:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\GlobalsQA\testng.xml"
+2024-10-10 19:39:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\GlobalsQA\testng.xml
+
+2024-10-10 19:39:38 INFO  TC001_CandidateDetails:12 - Testcase STarted
+2024-10-10 19:39:48 INFO  TC001_CandidateDetails:33 - Testcase Finished
